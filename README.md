@@ -1,2 +1,2 @@
 # DTKeyGen
-Provide AIR based installer for Key generator for DTAM.
+Provide AIR based installer for Key generator for DTDM.
